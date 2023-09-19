@@ -1,0 +1,15 @@
+{
+    "name": "Favorites Manager",
+    "short_name": "Favorites Manager",
+    "icons": [
+        {
+            "src": "contact-logo.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
